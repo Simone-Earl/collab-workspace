@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f3f4f6;
+  font-family: sans-serif;
+  overflow: hidden; /* Prevents scrollbars when dragging notes */
+}
